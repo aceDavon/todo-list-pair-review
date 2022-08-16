@@ -1,56 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+![](./src/img/todo.jpg)
 
-> Description the project.
+# To Do App
 
+> This is an Educational project aimed at teaching how to give and receive professional code review. This exercise was carried out between my self and a single partner who reviewed my code base for different issues using the HTML/CSS best practices, Modern JavaScript best practices, KISS, YAGNI, and DRY guidelines.
+
+## Live URL
+[Deployment](https://acedavon.github.io/todo-list/)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML, CSS, JavaScript
+- Git, GitHub, Webpack, Webpack-cli, webpack-dev-server
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+**Setting this project Locally,**
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+1. Clone the Repo or Download the Zip file
+2. Run the live server or simply open index.html with your browser.
 
-### Setup
+## Project Mockup
 
-### Install
+- All views
+  ![](./src/img/3-devices-black.png)
 
-### Usage
+- Desktop
+  ![](<./src/img/desktop%20(1).png>)
 
-### Run tests
-
-### Deployment
-
-
+- Mobile
+  ![](./src/img/mobile-black.png)
 
 ## Authors
 
-👤 **Author1**
+👤 **Onate Makoji David**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@aceDavon](https://github.com/acedavon)
+- Twitter: [@sharkleshevon](https://twitter.com/sharkleshevon)
+- LinkedIn: [Makoji david](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,12 +54,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- [Microverse](https://microverse.org)
 - Inspiration
 - etc
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
